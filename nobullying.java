@@ -9,4 +9,5 @@ public class NoBullying {
 		System.out.println("6° passo - Ajudar de qualquer forma");
 		System.out.println("7° passo - Tentar deixar a pessoa o mais confortavel possivel para se abrir");
 		System.out.println("8° passo - Comunicar a superiores de casos ocorridos");
+		System.out.println("9° passo - Não se influenciar com atitudes desagradaveis");
 		 } } 
