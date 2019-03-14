@@ -10,4 +10,5 @@ public class NoBullying {
 		System.out.println("7° passo - Tentar deixar a pessoa o mais confortavel possivel para se abrir");
 		System.out.println("8° passo - Comunicar a superiores de casos ocorridos");
 		System.out.println("9° passo - Não se influenciar com atitudes desagradaveis");
+		System.out.println("10° passo - Seguir todos os passos anteriores");
 		 } } 
