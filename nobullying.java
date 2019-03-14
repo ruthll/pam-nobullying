@@ -6,4 +6,5 @@ public class NoBullying {
 		System.out.println("3° passo - Procurar sempre conversar");
 		System.out.println("4° passo - Demonstrar impatia");
 		System.out.println("5° passo - Não julgar");
+		System.out.println("6° passo - Ajudar de qualquer forma");
 		 } } 
